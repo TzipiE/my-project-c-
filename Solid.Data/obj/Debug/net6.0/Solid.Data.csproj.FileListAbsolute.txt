@@ -1,0 +1,17 @@
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll

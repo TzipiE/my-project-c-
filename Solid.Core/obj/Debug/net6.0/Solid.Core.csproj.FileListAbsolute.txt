@@ -1,0 +1,12 @@
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+D:\תיקיה של לימודים שנה ב\פרויקט C#\Library-Solid\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
